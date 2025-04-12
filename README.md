@@ -1,16 +1,27 @@
-# responsive_designs
+Flutter Responsive UI
+A simple Flutter project demonstrating responsive design across mobile, tablet, and desktop layouts using LayoutBuilder. Built for adaptability and clean UI across different screen sizes.
 
-A new Flutter project.
+🚀 Features
+Responsive layout using LayoutBuilder
 
-## Getting Started
+Mobile, tablet, and desktop support
 
-This project is a starting point for a Flutter application.
+Clean and maintainable code structure
 
-A few resources to get you started if this is your first Flutter project:
+🛠️ Getting Started
+bash
+Copy
+Edit
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+flutter pub get
+flutter run
+📸 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![tablet_responsive](https://github.com/user-attachments/assets/56cb3218-55e6-4366-8744-4fb373819d8d)
+![desktop_responsive](https://github.com/user-attachments/assets/cd00e5bc-95bb-4899-b598-b933b397ec00)
+![mobile_responsive](https://github.com/user-attachments/assets/f3761596-674b-4832-bf37-409ff256465e)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+📄 License
+MIT License
